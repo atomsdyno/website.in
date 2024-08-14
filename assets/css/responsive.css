@@ -59,7 +59,7 @@
 /* mobile or only mobile */
 @media (max-width: 767px) {
 	.navbar-light .navbar-nav .nav-link {
-		color: #333;
+		color: #fff;
 		padding: 0 0 10px;
 	}
 	.funfact {
