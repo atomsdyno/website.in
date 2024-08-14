@@ -513,7 +513,7 @@ a.back-to-top:hover, a.back-to-top:focus{
 .navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333333;}
 .navbar-fixed.dark_bg_menu .navbar-nav .nav-link{color:#fff;}
 @media only screen and (max-width:768px){ 
-.navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333;}
+.navbar-fixed.navbar-light .navbar-nav .nav-link{color:#fff;}
 }
 /* ==========================================================================
 02. End Header Area
