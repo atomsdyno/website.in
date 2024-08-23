@@ -671,6 +671,8 @@ a.back-to-top:hover, a.back-to-top:focus{
     -moz-transition: all 0.3s ease-in-out 0s;
     -webkit-transition: all 0.3s ease-in-out 0s;
     -o-transition: all 0.3s ease-in-out 0s;
+	box-shadow: 0 1px 30px rgba(255, 255, 255, 0.2);
+
 }
 .dark_bg .services-item{
 	border: 1px solid #fff;
@@ -832,7 +834,7 @@ Start FunFacts CSS
 	border: 1px solid #ccc;
 	background: transparent;
 	padding: 20px 10px;
-	box-shadow: 0 1px 30px rgba(255, 255, 255, 0.2);
+
 }
 .dark_bg .funfact{
 	border: 1px solid #fff;
