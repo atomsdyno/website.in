@@ -832,6 +832,7 @@ Start FunFacts CSS
 	border: 1px solid #ccc;
 	background: transparent;
 	padding: 20px 10px;
+	box-shadow: 0 1px 30px rgba(255, 255, 255, 0.2);
 }
 .dark_bg .funfact{
 	border: 1px solid #fff;
